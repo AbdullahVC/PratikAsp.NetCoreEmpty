@@ -1,5 +1,4 @@
 # Pratik - Asp.Net Core Empty
-# ASP.NET Core MVC Projesi
 
 ## Açıklama
 Bu proje, ASP.NET Core MVC mimarisini kullanarak oluşturulmuş temel bir web uygulamasıdır.
